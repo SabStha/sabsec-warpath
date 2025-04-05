@@ -1,0 +1,10 @@
+sudo nmap -sS -sV -O localhost
+
+  999 closed tcp ports
+  open port : 111/tcp service: rpcbind version: 2-4 
+  device type: general purpose 
+  Running: Linux 2.6.X
+  Os Cpe: cpe:/0:Linux:linux_kernel:2.6.32
+  OS details: Linux 2.6.32
+  Network Distance: 0 hops
+    
