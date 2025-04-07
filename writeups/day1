@@ -1,0 +1,18 @@
+# HTB Writeup – Meow
+
+## Target IP
+10.10.10.8
+
+## Nmap Results
+- Port 23: Telnet open
+- OS: Linux
+  
+
+
+## Exploit Path
+- Connected via Telnet → gained shell
+- Found flag in /root directory
+
+## Lessons Learned
+- Telnet is highly insecure
+- Nmap OS detection isn’t always 100% accurate
